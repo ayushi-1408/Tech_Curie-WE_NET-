@@ -14,3 +14,4 @@
 #### ->>Corona patients get isolated and they have to stay away from their family and friends which gives them a hard time by making them feel alone. So, to support and motivate the corona patients from all across the world we thought of this idea to make a platform for covid-19 patients where they can communicate, share and can get hope to fight.
 ## HOW IS IT UNIQUE FROM OTHER PRODUCTS?
 #### ->>There is no platform for corona patients yet to connect from all across the world. Those persons who wanna help the corona patients can reach them through this platform and can send their message.
+![Screenshot (37)](https://user-images.githubusercontent.com/60479969/83943271-51022d00-a818-11ea-808a-581a32e980ac.png)
